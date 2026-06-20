@@ -1,0 +1,94 @@
+# =========================
+# Core LLM + LangChain
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+
+# =========================
+# Environment Variables
+# =========================
+python-dotenv
+
+# =========================
+# Search Tool (DuckDuckGo)
+# =========================
+duckduckgo-search
+
+# =========================
+# Web Scraping
+# =========================
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# =========================
+# Async Support
+# =========================
+aiohttp
+httpx
+
+# =========================
+# Parsing + Data Handling
+# =========================
+pydantic
+typing-extensions
+
+# =========================
+# Logging / CLI Output
+# =========================
+rich
+
+# =========================
+# Optional Utilities
+# =========================
+tqdm
+
+# =========================
+# Token Counting (Useful for Gemini)
+# =========================
+tiktoken
+
+# =========================
+# JSON Handling / Validation
+# =========================
+orjson
+
+# =========================
+# Retry Handling
+# =========================
+tenacity
+
+# =========================
+# Optional Vector DB (Future RAG Expansion)
+# =========================
+chromadb
+
+# =========================
+# Embedding Models (Optional)
+# =========================
+sentence-transformers
+
+# =========================
+# FastAPI (Optional API Layer)
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Jupyter Notebook (Optional)
+# =========================
+notebook
+
+# =========================
+# Testing
+# =========================
+pytest
+
+# =========================
+# LangSmith (Optional Tracing)
+# =========================
+langsmith
